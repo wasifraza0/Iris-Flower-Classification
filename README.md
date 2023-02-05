@@ -7,11 +7,11 @@ The project aims to demonstrate the application of machine learning algorithms i
 
 The following packages and libraries are required to run the code:
 
-numpy
+**numpy
 pandas
 matplotlib
 seaborn
-scikit-learn
+scikit-learn**
 
 # Results and Conclusion
 
